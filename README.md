@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahenkhan" alt="ahenkhan" /></a> </p>
 
-- 🌱 I’m currently learning at Bano qabil **MERN Developer**
+- 🌱 I’m currently working with Aptech Centre **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahenkhan?tab=repositories](https://github.com/Ahenkhan?tab=repositories)
 
-- 💬 Ask me about **ML,AI,Python,HTML/CSS and Javascript**
+- 💬 Ask me about **ML,AI,Python,HTML/CSS and Javascript,PHP,PHP Framework(LARAVEL),Bootstrap and much more **
 
 - 📫 How to reach me **neha.khan112002@gmail.com**
 
